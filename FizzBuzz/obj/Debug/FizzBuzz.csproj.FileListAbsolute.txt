@@ -1,0 +1,7 @@
+D:\C# Studies\LearnSomeShit\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
+D:\C# Studies\LearnSomeShit\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+D:\C# Studies\LearnSomeShit\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+D:\C# Studies\LearnSomeShit\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+D:\C# Studies\LearnSomeShit\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+D:\C# Studies\LearnSomeShit\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+D:\C# Studies\LearnSomeShit\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
